@@ -2,7 +2,7 @@
 # Copy for Alina Smtih 2021
 ######################################################
 
-# You will see that you can put non-executable "comment" lines
+# You will see that you can put non-executable "comment" lines hello
 # in your script by putting "#" at the beginning of the lines.
 # 
 # In fact, you can put comments anywhere on a line as long as 
